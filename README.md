@@ -118,6 +118,6 @@ This allows real-time remote monitoring.
 
 
 
-## Author
-Hardware Design: Your Name  
-Software Design: Your Friend's Name
+## Author  
+Software Design: Siddharth Reddy
+Hardware Design: GUNI REDDY CHARAN KUMAR REDDY
