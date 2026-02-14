@@ -132,7 +132,10 @@ The GPS module continuously sends location data such as latitude and longitude t
 ## Hardware Components
 
 
-![Flowchart](images/flowchart.png)
+<p align="center">
+  <img src="Media/Board.jpeg" width="45%" />
+  <img src="Media/Board1.jpeg" width="45%" />
+</p>
 
 ---
 
