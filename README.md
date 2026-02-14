@@ -130,8 +130,10 @@ The GPS module continuously sends location data such as latitude and longitude t
 ---
 
 ## Hardware Components
+
 ### Front View
-<"center">
+
+<p align="center">
   <img src="Media/Board.jpeg" width="700"/>
 </p>
 
@@ -140,6 +142,7 @@ The GPS module continuously sends location data such as latitude and longitude t
 <p align="center">
   <img src="Media/Back View.png" width="700"/>
 </p>
+
 ---
 
 - Controller unit (ESP32)
