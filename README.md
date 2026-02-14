@@ -138,7 +138,7 @@ The GPS module continuously sends location data such as latitude and longitude t
 ### Back View
 
 <p align="center">
-  <img src="Media/Back view.jpeg" width="700"/>
+  <img src="Media/Back View.png" width="700"/>
 </p>
 ---
 
