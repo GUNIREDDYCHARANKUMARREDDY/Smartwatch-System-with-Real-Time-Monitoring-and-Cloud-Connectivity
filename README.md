@@ -170,7 +170,7 @@ Firebase is a cloud service provided by Google that enables real-time data synch
 
 ## Firebase Realtime Database
 
-![Flowchart](images/cloud.png)
+![Flowchart](Media/Cloud.jpeg)
 
 The system connects to the Firebase Realtime Database using WiFi. The controller uploads sensor data periodically to the Firebase cloud.
 
